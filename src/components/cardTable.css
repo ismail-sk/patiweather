@@ -1,0 +1,70 @@
+
+.tableContainer {
+    margin: 0px 2px;
+    font-size: 12px;
+}
+
+table {
+  border-collapse: collapse;
+  overflow: hidden;
+  margin: 1px;
+}
+
+table p {
+  margin: 0;
+  padding: 0;
+  font-weight: bolder;
+}
+
+th,
+td {
+   padding: 3px;
+}
+
+tbody tr:hover {
+  background-color: rgba(32, 255, 2, 0.2);
+}
+tbody td {
+  position: relative;
+}
+
+tbody td:not(.rowName):hover:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -9999px;
+  bottom: -9999px;
+  background-color: rgba(2, 240, 237, 0.2);
+  z-index: -1;
+}
+
+tbody td.rowName {
+font-weight: 700;
+}
+
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+  color: gold;
+}
+
+.tooltip .tooltiptext {
+  visibility:hidden;
+  width: auto;
+  background-color: rgba(29, 160, 235, 0.8);
+  color: #fff;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+}

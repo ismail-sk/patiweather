@@ -1,0 +1,26 @@
+
+header{
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3) ;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+  }
+
+  header select{
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    padding: 2px 5px;
+    cursor: pointer;
+  }
+
+  select {
+    background-color: rgb(40,156,244);
+    color: white;
+    font-weight: 700;
+  }
+  
+  header select:focus{
+    outline: none;
+  }

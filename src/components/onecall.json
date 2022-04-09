@@ -1,0 +1,324 @@
+{
+    "lat": 33.44,
+    "lon": -94.04,
+    "timezone": "America/Chicago",
+    "timezone_offset": -18000,
+    "daily": [
+        {
+            "dt": 1649268000,
+            "sunrise": 1649246218,
+            "sunset": 1649291982,
+            "moonrise": 1649257920,
+            "moonset": 1649221920,
+            "moon_phase": 0.17,
+            "temp": {
+                "day": 291.9,
+                "min": 283.24,
+                "max": 296.19,
+                "night": 283.24,
+                "eve": 289.09,
+                "morn": 296.19
+            },
+            "feels_like": {
+                "day": 290.93,
+                "night": 281.87,
+                "eve": 288.18,
+                "morn": 296.59
+            },
+            "pressure": 1011,
+            "humidity": 42,
+            "dew_point": 278.67,
+            "wind_speed": 8.36,
+            "wind_deg": 357,
+            "wind_gust": 18.28,
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "hafif yağmur",
+                    "icon": "10d"
+                }
+            ],
+            "clouds": 82,
+            "pop": 0.52,
+            "rain": 0.1,
+            "uvi": 7.82
+        },
+        {
+            "dt": 1649354400,
+            "sunrise": 1649332540,
+            "sunset": 1649378426,
+            "moonrise": 1649347020,
+            "moonset": 1649311680,
+            "moon_phase": 0.2,
+            "temp": {
+                "day": 289.39,
+                "min": 279.83,
+                "max": 289.94,
+                "night": 281.77,
+                "eve": 286.5,
+                "morn": 279.83
+            },
+            "feels_like": {
+                "day": 288.17,
+                "night": 279.48,
+                "eve": 285.25,
+                "morn": 277.4
+            },
+            "pressure": 1018,
+            "humidity": 42,
+            "dew_point": 276.46,
+            "wind_speed": 8.37,
+            "wind_deg": 287,
+            "wind_gust": 15.85,
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "açık",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": 1,
+            "pop": 0,
+            "uvi": 6.79
+        },
+        {
+            "dt": 1649440800,
+            "sunrise": 1649418862,
+            "sunset": 1649464870,
+            "moonrise": 1649436420,
+            "moonset": 1649401320,
+            "moon_phase": 0.23,
+            "temp": {
+                "day": 287.7,
+                "min": 277.95,
+                "max": 288.84,
+                "night": 281.08,
+                "eve": 285.83,
+                "morn": 277.95
+            },
+            "feels_like": {
+                "day": 286.23,
+                "night": 279.31,
+                "eve": 284.54,
+                "morn": 274.86
+            },
+            "pressure": 1019,
+            "humidity": 39,
+            "dew_point": 274.03,
+            "wind_speed": 7.47,
+            "wind_deg": 297,
+            "wind_gust": 12.85,
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "açık",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": 1,
+            "pop": 0,
+            "uvi": 6.48
+        },
+        {
+            "dt": 1649527200,
+            "sunrise": 1649505185,
+            "sunset": 1649551314,
+            "moonrise": 1649526120,
+            "moonset": 1649490600,
+            "moon_phase": 0.25,
+            "temp": {
+                "day": 291.67,
+                "min": 277.63,
+                "max": 294.18,
+                "night": 286.02,
+                "eve": 291.2,
+                "morn": 277.63
+            },
+            "feels_like": {
+                "day": 290.57,
+                "night": 285.24,
+                "eve": 290.52,
+                "morn": 275.27
+            },
+            "pressure": 1020,
+            "humidity": 38,
+            "dew_point": 276.93,
+            "wind_speed": 3.12,
+            "wind_deg": 271,
+            "wind_gust": 5.65,
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "açık",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": 1,
+            "pop": 0,
+            "uvi": 7.97
+        },
+        {
+            "dt": 1649613600,
+            "sunrise": 1649591508,
+            "sunset": 1649637758,
+            "moonrise": 1649616000,
+            "moonset": 1649579640,
+            "moon_phase": 0.29,
+            "temp": {
+                "day": 296.64,
+                "min": 284.3,
+                "max": 299.04,
+                "night": 294.34,
+                "eve": 295.35,
+                "morn": 284.3
+            },
+            "feels_like": {
+                "day": 296.32,
+                "night": 294.11,
+                "eve": 295.32,
+                "morn": 283.72
+            },
+            "pressure": 1013,
+            "humidity": 49,
+            "dew_point": 285.23,
+            "wind_speed": 7.1,
+            "wind_deg": 189,
+            "wind_gust": 14.44,
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "parçalı bulutlu",
+                    "icon": "04d"
+                }
+            ],
+            "clouds": 81,
+            "pop": 0.25,
+            "uvi": 8
+        },
+        {
+            "dt": 1649700000,
+            "sunrise": 1649677832,
+            "sunset": 1649724202,
+            "moonrise": 1649706000,
+            "moonset": 1649668320,
+            "moon_phase": 0.33,
+            "temp": {
+                "day": 293.24,
+                "min": 289.55,
+                "max": 297.47,
+                "night": 292.62,
+                "eve": 294.15,
+                "morn": 289.81
+            },
+            "feels_like": {
+                "day": 293.65,
+                "night": 293.08,
+                "eve": 294.58,
+                "morn": 290.04
+            },
+            "pressure": 1012,
+            "humidity": 90,
+            "dew_point": 291.54,
+            "wind_speed": 6.82,
+            "wind_deg": 181,
+            "wind_gust": 15.53,
+            "weather": [
+                {
+                    "id": 500,
+                    "main": "Rain",
+                    "description": "hafif yağmur",
+                    "icon": "10d"
+                }
+            ],
+            "clouds": 100,
+            "pop": 1,
+            "rain": 6.87,
+            "uvi": 8
+        },
+        {
+            "dt": 1649786400,
+            "sunrise": 1649764157,
+            "sunset": 1649810646,
+            "moonrise": 1649796060,
+            "moonset": 1649756820,
+            "moon_phase": 0.36,
+            "temp": {
+                "day": 295.87,
+                "min": 292.24,
+                "max": 298.64,
+                "night": 294.24,
+                "eve": 294.66,
+                "morn": 292.81
+            },
+            "feels_like": {
+                "day": 296.52,
+                "night": 294.75,
+                "eve": 295.27,
+                "morn": 293.36
+            },
+            "pressure": 1014,
+            "humidity": 89,
+            "dew_point": 293.9,
+            "wind_speed": 8.59,
+            "wind_deg": 169,
+            "wind_gust": 16.48,
+            "weather": [
+                {
+                    "id": 501,
+                    "main": "Rain",
+                    "description": "orta şiddetli yağmur",
+                    "icon": "10d"
+                }
+            ],
+            "clouds": 100,
+            "pop": 1,
+            "rain": 7.92,
+            "uvi": 8
+        },
+        {
+            "dt": 1649872800,
+            "sunrise": 1649850482,
+            "sunset": 1649897090,
+            "moonrise": 1649886180,
+            "moonset": 1649845140,
+            "moon_phase": 0.39,
+            "temp": {
+                "day": 299.93,
+                "min": 290.66,
+                "max": 301.05,
+                "night": 295.69,
+                "eve": 297.33,
+                "morn": 290.66
+            },
+            "feels_like": {
+                "day": 301.15,
+                "night": 296.35,
+                "eve": 297.92,
+                "morn": 291.03
+            },
+            "pressure": 1010,
+            "humidity": 63,
+            "dew_point": 292.37,
+            "wind_speed": 8.28,
+            "wind_deg": 171,
+            "wind_gust": 17.85,
+            "weather": [
+                {
+                    "id": 501,
+                    "main": "Rain",
+                    "description": "orta şiddetli yağmur",
+                    "icon": "10d"
+                }
+            ],
+            "clouds": 54,
+            "pop": 1,
+            "rain": 17.66,
+            "uvi": 8
+        }
+    ]
+}
