@@ -20,7 +20,18 @@ header{
     color: white;
     font-weight: 700;
   }
-  
+    
   header select:focus{
     outline: none;
+  }
+
+  header h2 {
+    color:rgb(0, 229, 255);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black, 5px 5px 25px lightblue, -5px -5px 25px lightblue;
+  }
+
+  header .cityAndDate {
+    width: 90px;
+    margin: 10px;
+    text-align: center;
   }
