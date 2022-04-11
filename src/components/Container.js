@@ -38,7 +38,7 @@ function Container() {
 
 function Card( {weather} ) {
   return (
-  <div className="weather-cart">
+  <div className= { new Date(weather.dt*1000).getDate() === new Date().getDate() ? "weather-cart today" : "weather-cart"}>
     <p className="day">{new Date(weather.dt*1000).toLocaleDateString("tr",{weekday:"long"})}</p>
     <p className="description">{weather.weather[0].description}</p> 
       <img src={`https://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`} alt="weatheré-icon"/> {/* width="90" height="90" */}
