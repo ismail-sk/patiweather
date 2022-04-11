@@ -18,13 +18,16 @@ function Header() {
 
   return (
     <header className="App-header">
-        <div>Header</div>
         
         <select defaultValue={selectedCity.name} onChange={handleChange}>
             <Cities />
         </select>
         
         <div>{selectedCity.name}</div>
+        <h2>Türkiye İllerinin Haftalık Hava Tahminleri</h2>
+
+        <div className="cityAndDate">{new Date().toLocaleDateString()}<br/>{new Date().toLocaleDateString("tr",{weekday:"long"})}</div>
+
     </header>
   )
 }
