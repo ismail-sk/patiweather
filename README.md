@@ -1,6 +1,6 @@
 # Weather APP
 ## What this that?
-This webapp is aweather forecast application for Turkey area. 
+This webapp is a weather forecast application for Turkey area. 
 This project was builded by me for my practicality exercise.
 
 [This a patika homework.](https://app.patika.dev/courses/react/odev3)
